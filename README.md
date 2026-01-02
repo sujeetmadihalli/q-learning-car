@@ -6,8 +6,7 @@ Watch an AI agent start with zero knowledge and learn to navigate a grid world, 
 
 🔗 **[Live Demo](https://sujeetmadihalli.github.io/q-learning-car/)**
 
-![Project Screenshot](./public/screenshot.png) 
-*(Note: You can add a screenshot to your public folder and uncomment the line above)*
+[Project Screenshot](./public/Q_Learning.png) 
 
 ## 🧠 What is this?
 
